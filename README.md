@@ -1,2 +1,2 @@
-# VQC-Iris-Dataset
-A minor project based on the concept of variable quantum classifier algorithm utilized on the Iris Dataset.
+# Variable Quantum Classfier
+A minor project based on the concept of Variable Quantum Classifier (VQC) algorithm using the Iris Dataset.
